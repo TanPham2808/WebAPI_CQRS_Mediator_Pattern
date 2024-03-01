@@ -1,0 +1,15 @@
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.deps.json
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CopyComplete
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
+D:\Learning\17.Api_CleanArchitecture\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
