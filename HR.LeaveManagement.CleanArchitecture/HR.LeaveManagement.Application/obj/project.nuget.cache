@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sQCgYQnHXudG1OzJ87EURx1b1MslFYUMSFWFo/Yrjg4lq9k5Z0kfTuNt84uLMu6aib3Fu7V3Ca1Ow1y6lcp7Tg==",
+  "dgSpecHash": "aPSnAQDQhFGlTEgPsG178D3Co+KKo7jdevhVxKNH+EV+F2uqr320/mzLKRyOmX6MrCfBi5hDry+A3Nb/S77w7w==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+  "projectFilePath": "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tan.phamx\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\tan.phamx\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

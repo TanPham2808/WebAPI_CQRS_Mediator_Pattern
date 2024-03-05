@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HR.LeaveManagement.Infrastructure
-build_property.ProjectDir = D:\Learning\18.Api_CleanArchitecture_CQRS\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\
+build_property.ProjectDir = D:\Learning\17.Api_CleanArchitecture\WebAPI_CQRS_Mediator_Pattern\HR.LeaveManagement.CleanArchitecture\HR.LeaveManagement.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

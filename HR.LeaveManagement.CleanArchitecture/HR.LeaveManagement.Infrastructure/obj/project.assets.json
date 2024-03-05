@@ -837,11 +837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
       "projectName": "HR.LeaveManagement.Infrastructure",
-      "projectPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+      "projectPath": "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\tan.phamx\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\obj\\",
+      "outputPath": "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tan.phamx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -858,8 +858,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-              "projectPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+            "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+              "projectPath": "D:\\Learning\\17.Api_CleanArchitecture\\WebAPI_CQRS_Mediator_Pattern\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
             }
           }
         }
