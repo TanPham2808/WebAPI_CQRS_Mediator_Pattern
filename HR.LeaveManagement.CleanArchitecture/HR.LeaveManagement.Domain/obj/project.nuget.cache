@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEDef+bEq0rZFyfiuqtxNtM21LFYvCCoaW/gCdIFQoxyet9tww4/T9avYOFnCWDhoeU6xLNLX8iiiaEgF497NA==",
+  "dgSpecHash": "sncpvY/5wbDLPflZg7ZmwdWcdIjm1F7rQnfgdfcTUOi69MgqqA1Aq7zdwAXTp/uSGBK4PM2cwBCLlfEcyn/bIQ==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+  "projectFilePath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "packagesPath": "C:\\Users\\tan.phamx\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\obj\\",
+      "outputPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tan.phamx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -480,8 +480,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "D:\\Learning\\17.Api_CleanArchitecture\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+            "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "D:\\Learning\\18.Api_CleanArchitecture_CQRS\\HR.LeaveManagement.CleanArchitecture\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
